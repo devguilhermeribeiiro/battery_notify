@@ -1,0 +1,13 @@
+name: battery_notify
+version: 0.1.0
+
+authors:
+  - Guilherme Ribeiro <devguilhermeribeiro000@proton.me>
+
+targets:
+  battery_notify:
+    main: src/battery_notify.cr
+
+crystal: '>= 1.21.0'
+
+license: MIT
